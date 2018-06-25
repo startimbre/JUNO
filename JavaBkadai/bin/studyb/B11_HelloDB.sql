@@ -1,1 +1,0 @@
-INSERT INTO testtable1(TESTNO,NAME,KANA) values(1,'JINJUNHO','ƒWƒ“ƒWƒ…ƒ“ƒz');

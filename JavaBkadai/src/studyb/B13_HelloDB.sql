@@ -1,1 +1,0 @@
-UPDATE testtable1 SET NAME = 'JURUNO' WHERE NAME = HIHI;

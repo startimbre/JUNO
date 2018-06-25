@@ -1,0 +1,13 @@
+1526877253790	Delete element
+1526877301405	Extract interface 'Speaker'
+1526969504479	Rename package 'com.springbook.biz'
+1526978245764	Delete element
+1527038912825	Delete element
+1527063021837	Extract interface 'BoardService'
+1527063248065	Delete element
+1527063262190	Extract interface 'BoardServiceImpl'
+1527063635690	Move compilation unit
+1527064616753	Delete element
+1527064647947	Rename type 'dd'
+1527067427299	Move compilation units
+1527067710204	Delete element

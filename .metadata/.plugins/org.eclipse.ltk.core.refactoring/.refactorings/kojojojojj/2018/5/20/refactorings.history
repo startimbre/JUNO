@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;B28_HelloWeb_Servlet.java&apos; to &apos;studyb/src/studyb&apos;&#x0D;&#x0A;- Original project: &apos;kojojojojj&apos;&#x0D;&#x0A;- Destination element: &apos;studyb/src/studyb&apos;&#x0D;&#x0A;- Original element: &apos;studyb.B28_HelloWeb_Servlet.java&apos;" description="Copy compilation unit" destination="=studyb/src&lt;studyb" element1="/src&lt;studyb{B28_HelloWeb_Servlet.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1526359001709" units="1" version="1.0"/>
+</session>

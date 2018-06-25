@@ -1,0 +1,21 @@
+1529289011762	Move 'error.jsp' to 'common'
+1529289075300	Copy file
+1529289085190	Copy file
+1529305793003	Delete element
+1529306026473	Delete element
+1529306821687	Copy file
+1529310479839	Rename resource 'messageSource_ja.property'
+1529311162040	Rename resource 'messageSource_ja_jp.property'
+1529311644814	Move file
+1529311683570	Move 'messageSource_ja.property' to 'message'
+1529311699394	Rename resource 'messageSource_ja.property'
+1529374148605	Rename resource 'messageSource_ja.properties'
+1529374239162	Rename resource 'messageSource_jp.properties'
+1529375181329	Rename resource 'messageSource_ja.properties'
+1529388252426	Rename resource 'messageSource_jp.properties'
+1529543390781	Move 3 resources to 'board'
+1529543395578	Move 'login.jsp' to 'board'
+1529565998203	Delete element
+1529566848429	Move 'index.jsp' to 'WEB-INF'
+1529566851724	Move 'index.jsp' to 'board'
+1529566953106	Move 'index.jsp' to 'webapp'

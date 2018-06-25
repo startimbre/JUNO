@@ -1,0 +1,5 @@
+package com.juno.springweb.util;
+
+public class SqlSessionFactoryBean {
+
+}

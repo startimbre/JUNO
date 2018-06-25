@@ -1,0 +1,5 @@
+package com.juno.springweb.board;
+
+public class BoardDAO {
+
+}

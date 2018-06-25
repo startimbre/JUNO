@@ -1,0 +1,108 @@
+package studyb;
+
+/**
+ * LESSON B-30
+ * 「WEB」
+ * チェックボックスを置き、表示列の指定を可能にしなさい
+ *　テキストボックスを置き、列名NAMEの前方一致検索条件としなさい
+ * （空白の場合は全件検索）
+ * コンボを置き、ソート対象列＋（昇順or降順）を指定可能にしなさい。
+ * 検索後も検索条件入力欄は表示し、検索したときの状態を保持する事。
+ * また、B-28と同様に表示と処理をJSPとサーブレットにわけること。
+ * 
+ * @author jin.junho(ジンジュンホ、800189)
+ * @since 1.8
+ */
+
+import java.io.IOException;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
+
+@WebServlet("/B30_SELECT_Servlet")
+public class B30_SELECT_Servlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+	
+	String selectSql = "select * from testtable1;";
+	
+	String num = null;
+	String name = null;
+	String kana = null;
+	
+       
+    public B30_SELECT_Servlet() {
+        super();
+    }
+
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		doPost(request, response);
+	}
+	
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+
+		request.setCharacterEncoding("UTF-8"); // POSTが渡す値のENCODING
+		response.setContentType("text/html; charset=UTF-8"); // このページのENCODING
+		
+		HttpSession session = request.getSession();
+		
+		B29_DBAccess dbAccess = new B29_DBAccess();
+		
+		dbAccess.connect();
+		
+		String query = "";
+		String[] checkresult = request.getParameterValues("checkinput"); // checkboxそれぞれの値を配列で受けます。
+		System.out.println("###" + checkresult);
+		
+		if (checkresult == null) {
+			query = "*";
+		} 
+		else {
+			for(int i = 0; i < checkresult.length; i++) {	// query文を書くfor文
+				if(checkresult[i] != null) {
+					query += checkresult[i];	// checkboxそれぞれの値(testno, name, kana)を受けます。
+				}
+				if(i < checkresult.length-1) {
+					query += ",";	// 最後の前まで,を付きます。
+				}
+				else {
+					break;
+				}
+			}
+		}
+		
+		System.out.println(query);
+		
+		String searchresult = request.getParameter("searchCursor"); // 名前前方一致の条件(SQL文に書きます)
+		
+		if(searchresult == null) {
+			searchresult = "";
+		}
+		
+		String selectSql = "select " + query + " from testtable1 where name like " + "'" + searchresult + "%';";
+		
+		System.out.println(selectSql);
+		
+		// SELECT文を実行して、resultに入ります。
+		String[][] result = dbAccess.selectExec(selectSql);
+		
+		// resultはsessionに入ります。
+	    session.setAttribute("searchResult", result);
+	    
+		if(result != null){
+		    for ( int i = 0; i < result.length; i++ ) { 
+		    	System.out.println();
+		        for ( int j = 0; j < result[i].length; j++ ) {
+		        	System.out.println(result[i][j]);
+		        }
+		    }
+		}
+	    
+		RequestDispatcher dispatcher = request.getRequestDispatcher("B30_SELECT.jsp"); // 戻り値を受けるページ
+		dispatcher.forward(request, response);	
+	}
+}

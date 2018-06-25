@@ -1,7 +1,0 @@
-import java.sql.SQLException;
-
-public class BoardServiceClient {
-	public static void main(String[] args) throws SQLException{
-		BoardDAO boardDAO = new BoardDAO();
-	}
-}

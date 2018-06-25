@@ -1,6 +1,0 @@
-package com.juno.springweb.util;
-
-public class SqlSessionFactoryBean {
-	private static SqlSessionFactoryBean sessionFactory = null;
-	
-}

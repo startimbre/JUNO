@@ -13,7 +13,7 @@
 	</update>
 	
 	<delete id="deleteBoard">
-		delete board where seq=#{seq}
+		delete board where seq = #{seq}
 	</delete>
 	
 	<select id="getBoard" resultType="board">
@@ -22,7 +22,7 @@
 	
 	<select id="getBoardList" resultType="board">
 		select * from board
-		where title like '%'||#{searchKeyword}||'%'
+		where title like '%'||#{searchKeyword, jdbcType=NUMERIC}||'%'
 		order by seq desc
 	</select>
-</mapper>
+</mapper>	

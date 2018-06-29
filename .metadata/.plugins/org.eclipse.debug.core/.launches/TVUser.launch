@@ -10,5 +10,4 @@
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.springbook.biz.board.TVUser"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="samsung"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="springtest"/>
-<stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.m2e.launchconfig.sourcepathProvider"/>
 </launchConfiguration>

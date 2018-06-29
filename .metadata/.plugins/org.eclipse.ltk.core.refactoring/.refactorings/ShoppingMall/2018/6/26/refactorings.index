@@ -1,0 +1,34 @@
+1529915506187	Move 'assets' to 'webapp'
+1529915507930	Move 'template.html' to 'webapp'
+1529915512644	Delete element
+1529990796507	Delete elements
+1529991553290	Delete element
+1529992124938	Move 'html5up-spectral' to 'views'
+1529992315524	Delete element
+1529995579793	Move 7 resources to 'views'
+1529995586235	Move 'web.xml' to 'views'
+1529995588324	Move 'web.xml' to 'WEB-INF'
+1529995698535	Delete element
+1529995883244	Move 'index.html' to 'webapp'
+1529995896536	Move 6 resources to 'webapp'
+1529995907087	Delete element
+1529995911359	Delete element
+1529995916275	Move 2 resources to 'resources'
+1529995922296	Move 2 resources to 'webapp'
+1529995929055	Delete elements
+1529996714579	Move 3 resources to 'resources'
+1529996720644	Delete element
+1529999200337	Delete elements
+1529999227480	Delete element
+1529999391967	Delete element
+1529999478746	Move 'juno.jsp' to 'amado'
+1529999641542	Move 5 resources to 'include'
+1530000966380	Delete elements
+1530001248495	Delete element
+1530001252493	Move 'amado' to 'views'
+1530001545720	Delete element
+1530001787734	Rename resource 'juno.jsp'
+1530001951849	Move 'amado' to 'web-resources'
+1530002274035	Move 'amado' to 'resources'
+1530002280082	Move 'index.jsp' to 'WEB-INF'
+1530085786354	Move 'index.jsp' to 'views'

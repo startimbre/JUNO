@@ -21,8 +21,12 @@ D:\JUNO\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2361764139.index
 \ShoppingMall\src\main\java
 D:\JUNO\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\136761970.index
 \ShoppingMall\src\main\java
+D:\JUNO\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1379852186.index
+\springtest\src\main\java
 D:\JUNO\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2763847287.index
 \ShoppingMall\src\main\java
+D:\JUNO\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3171832284.index
+\springtest\src\main\java
 D:\JUNO\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2806564625.index
 \BoardWeb\src\main\java
 D:\JUNO\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\279651731.index

@@ -1,0 +1,92 @@
+package com.juno.shopping.biz.product;
+
+import java.util.Date;
+
+public class ProductVO {
+	
+	private String product_id;
+	private String storage_code;
+	private String product_type_code
+	private String product_name_kr
+	private String product_name_jp
+	private String company_name;
+	private int price;
+	private int prime_cost;
+	private int point_percent;
+	private int quantity;
+	private Date orderDate;
+	
+	public String getId() {
+		return id;
+	}
+	public void setId(String id) {
+		this.id = id;
+	}
+	public String getStorageCode() {
+		return storageCode;
+	}
+	public void setStorageCode(String storageCode) {
+		this.storageCode = storageCode;
+	}
+	public String getTypeCode() {
+		return typeCode;
+	}
+	public void setTypeCode(String typeCode) {
+		this.typeCode = typeCode;
+	}
+	public String getKrName() {
+		return krName;
+	}
+	public void setKrName(String krName) {
+		this.krName = krName;
+	}
+	public String getJpName() {
+		return jpName;
+	}
+	public void setJpName(String jpName) {
+		this.jpName = jpName;
+	}
+	public String getCompanyName() {
+		return companyName;
+	}
+	public void setCompanyName(String companyName) {
+		this.companyName = companyName;
+	}
+	public int getPrice() {
+		return price;
+	}
+	public void setPrice(int price) {
+		this.price = price;
+	}
+	public int getPrimeCost() {
+		return primeCost;
+	}
+	public void setPrimeCost(int primeCost) {
+		this.primeCost = primeCost;
+	}
+	public int getPointPercent() {
+		return pointPercent;
+	}
+	public void setPointPercent(int pointPercent) {
+		this.pointPercent = pointPercent;
+	}
+	public int getQuantity() {
+		return quantity;
+	}
+	public void setQuantity(int quantity) {
+		this.quantity = quantity;
+	}
+	public Date getOrderDate() {
+		return orderDate;
+	}
+	public void setOrderDate(Date orderDate) {
+		this.orderDate = orderDate;
+	}
+	@Override
+	public String toString() {
+		return "ProductVO [id=" + id + ", storageCode=" + storageCode + ", typeCode=" + typeCode + ", krName=" + krName
+				+ ", jpName=" + jpName + ", companyName=" + companyName + ", price=" + price + ", primeCost="
+				+ primeCost + ", pointPercent=" + pointPercent + ", quantity=" + quantity + ", orderDate=" + orderDate
+				+ "]";
+	}
+}

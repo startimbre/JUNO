@@ -3,5 +3,6 @@
 <aop-project name="springtest"/>
 <aop-project name="BoardWeb"/>
 <aop-project name="MybatisProject"/>
+<aop-project name="sasd"/>
 <aop-project name="ShoppingMall"/>
 </aop-reference-model>

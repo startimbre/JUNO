@@ -1,0 +1,93 @@
+package com.juno.shopping.biz.product;
+
+import java.util.Date;
+
+public class ProductVO {
+	
+	private String product_id;
+	private String storage_code;
+	private String product_type_code;
+	private String product_name_kr;
+	private String product_name_jp;
+	private String product_company_name;
+	private int product_price;
+	private int product_prime_cost;
+	private int product_point_percent;
+	private int product_quantity;
+	private Date product_order_date;
+	
+	public String getProduct_id() {
+		return product_id;
+	}
+	public void setProduct_id(String product_id) {
+		this.product_id = product_id;
+	}
+	public String getStorage_code() {
+		return storage_code;
+	}
+	public void setStorage_code(String storage_code) {
+		this.storage_code = storage_code;
+	}
+	public String getProduct_type_code() {
+		return product_type_code;
+	}
+	public void setProduct_type_code(String product_type_code) {
+		this.product_type_code = product_type_code;
+	}
+	public String getProduct_name_kr() {
+		return product_name_kr;
+	}
+	public void setProduct_name_kr(String product_name_kr) {
+		this.product_name_kr = product_name_kr;
+	}
+	public String getProduct_name_jp() {
+		return product_name_jp;
+	}
+	public void setProduct_name_jp(String product_name_jp) {
+		this.product_name_jp = product_name_jp;
+	}
+	public String product_getCompany_name() {
+		return product_company_name;
+	}
+	public void setProduct_Company_name(String company_name) {
+		this.product_company_name = company_name;
+	}
+	public int getProduct_price() {
+		return product_price;
+	}
+	public void setProduct_price(int product_price) {
+		this.product_price = product_price;
+	}
+	public int getProduct_prime_cost() {
+		return product_prime_cost;
+	}
+	public void setProduct_prime_cost(int product_prime_cost) {
+		this.product_prime_cost = product_prime_cost;
+	}
+	public int getProduct_point_percent() {
+		return product_point_percent;
+	}
+	public void setProduct_point_percent(int product_point_percent) {
+		this.product_point_percent = product_point_percent;
+	}
+	public int getProduct_quantity() {
+		return product_quantity;
+	}
+	public void setProduct_quantity(int product_quantity) {
+		this.product_quantity = product_quantity;
+	}
+	public Date getProduct_order_date() {
+		return product_order_date;
+	}
+	public void setProduct_order_date(Date product_order_date) {
+		this.product_order_date = product_order_date;
+	}
+	@Override
+	public String toString() {
+		return "ProductVO [product_id=" + product_id + ", storage_code=" + storage_code + ", product_type_code="
+				+ product_type_code + ", product_name_kr=" + product_name_kr + ", product_name_jp=" + product_name_jp
+				+ ", product_company_name=" + product_company_name + ", product_price=" + product_price + ", product_prime_cost="
+				+ product_prime_cost + ", product_point_percent=" + product_point_percent + ", product_quantity="
+				+ product_quantity + ", product_order_date=" + product_order_date + "]";
+	}
+}

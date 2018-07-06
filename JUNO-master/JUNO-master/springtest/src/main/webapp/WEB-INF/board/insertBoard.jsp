@@ -12,7 +12,7 @@
 <h1>reading board</h1>
 <a href="logout.do">Logout</a>
 <hr>
-<form action="insertBoard.do" method="post" enctype="multipart/form-data">
+<form action="insertBoardConfirm.do" method="post" enctype="multipart/form-data">
 <table border="1px">
 	<tr>
 		<td>subject</td>

@@ -1,0 +1,5 @@
+package com.juno.shopping.view;
+
+public class ProductController {
+
+}

@@ -1,0 +1,77 @@
+package com.juno.shopping.biz.product;
+
+import java.util.Date;
+
+public class ProductVO {
+	private String productId;
+	private String storageCode;
+	private String productTypeCode;
+	private String productNameKr;
+	private String productNameJp;
+	private String companyName;
+	private int price;
+	private int prime_cost;
+	private int quantity;
+	private Date order_date;
+	
+	public String getProductId() {
+		return productId;
+	}
+	public void setProductId(String productId) {
+		this.productId = productId;
+	}
+	public String getStorageCode() {
+		return storageCode;
+	}
+	public void setStorageCode(String storageCode) {
+		this.storageCode = storageCode;
+	}
+	public String getProductTypeCode() {
+		return productTypeCode;
+	}
+	public void setProductTypeCode(String productTypeCode) {
+		this.productTypeCode = productTypeCode;
+	}
+	public String getProductNameKr() {
+		return productNameKr;
+	}
+	public void setProductNameKr(String productNameKr) {
+		this.productNameKr = productNameKr;
+	}
+	public String getProductNameJp() {
+		return productNameJp;
+	}
+	public void setProductNameJp(String productNameJp) {
+		this.productNameJp = productNameJp;
+	}
+	public String getCompanyName() {
+		return companyName;
+	}
+	public void setCompanyName(String companyName) {
+		this.companyName = companyName;
+	}
+	public int getPrice() {
+		return price;
+	}
+	public void setPrice(int price) {
+		this.price = price;
+	}
+	public int getPrime_cost() {
+		return prime_cost;
+	}
+	public void setPrime_cost(int prime_cost) {
+		this.prime_cost = prime_cost;
+	}
+	public int getQuantity() {
+		return quantity;
+	}
+	public void setQuantity(int quantity) {
+		this.quantity = quantity;
+	}
+	public Date getOrder_date() {
+		return order_date;
+	}
+	public void setOrder_date(Date order_date) {
+		this.order_date = order_date;
+	}
+}

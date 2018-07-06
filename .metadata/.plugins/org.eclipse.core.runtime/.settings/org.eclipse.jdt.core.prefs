@@ -1,7 +1,10 @@
+JRE_LIB=C\:/Program Files/Java/jdk-10/lib/jrt-fs.jar
+JRE_SRC=C\:/Program Files/Java/jdk-10/lib/src.zip
 eclipse.preferences.version=1
+org.eclipse.jdt.core.classpathVariable.ASPECTJRT_LIB=C\:/Users/jin.junho/.p2/pool/plugins/org.aspectj.runtime_1.8.13.201803231521.jar
 org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=C\:/Users/jin.junho/eclipse/jee-oxygen/eclipse/
-org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Program Files/Java/jre1.8.0_161/lib/rt.jar
-org.eclipse.jdt.core.classpathVariable.JRE_SRC=
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=C\:/Program Files/Java/jdk1.8.0_171/src.zip
 org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
 org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=C\:/Users/jin.junho/.p2/pool/plugins/org.junit_4.12.0.v201504281640
 org.eclipse.jdt.core.classpathVariable.M2_REPO=C\:/Users/jin.junho/.m2/repository

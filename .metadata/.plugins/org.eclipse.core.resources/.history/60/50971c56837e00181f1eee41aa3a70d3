@@ -1,0 +1,7 @@
+package com.juno.shopping.view;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+
+public class ProductController {
+	@RequestMapping(value="product-details.do");
+}

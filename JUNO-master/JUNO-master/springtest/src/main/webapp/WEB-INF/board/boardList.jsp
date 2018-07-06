@@ -50,6 +50,6 @@
 		</c:forEach> 
 </table>
 </form>
-	<a href="insertBoard.jsp">write new content</a>
+	<a href="insertBoard.do">write new content</a>
 </body>
 </html>

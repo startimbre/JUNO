@@ -58,3 +58,112 @@
 5月 15, 2018 16:58:36.11 [4992:9740:0515/165836.103:ERROR:render_widget_host_view_aura.cc(1390)] NOT IMPLEMENTED
 5月 15, 2018 17:07:33.28 [4992:9740:0515/170733.283:ERROR:render_widget_host_view_aura.cc(1390)] NOT IMPLEMENTED
 5月 15, 2018 17:07:33.29 [4992:9740:0515/170733.283:ERROR:render_widget_host_view_aura.cc(1390)] NOT IMPLEMENTED
+
+7月 06, 2018 09:12:15.49 NEW SESSION
+7月 06, 2018 09:12:15.49 [9232:8884:0706/091215.496:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+7月 06, 2018 09:12:15.96 [9232:8884:0706/091215.949:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:15.96 [9232:8884:0706/091215.949:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:15.96 [9232:8884:0706/091215.949:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:15.96 [9232:8884:0706/091215.949:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:15.96 [9232:8884:0706/091215.949:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:15.96 [9232:8884:0706/091215.949:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:15.96 [9232:8884:0706/091215.949:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:15.98 [9232:8884:0706/091215.949:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:15.98 [9232:8884:0706/091215.949:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:15.98 [9232:8884:0706/091215.949:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:15.98 [9232:8884:0706/091215.949:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:15.98 [9232:8884:0706/091215.949:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:15.98 [9232:8884:0706/091215.949:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:15.98 [9232:8884:0706/091215.949:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:15.98 [9232:8884:0706/091215.949:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:15.98 [9232:8884:0706/091215.949:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:15.98 [9232:8884:0706/091215.949:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:15.98 [9232:8884:0706/091215.949:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:15.98 [9232:8884:0706/091215.949:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.07 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.07 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.10 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.15 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.19 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.23 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.25 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.27 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.29 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.29 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.30 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.30 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.30 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.30 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.42 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.44 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.44 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.45 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.45 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.45 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.46 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.47 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.47 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.47 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.48 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.48 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.48 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.48 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.48 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.48 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.48 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.48 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.49 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.49 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.49 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.49 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.49 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.49 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.49 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.49 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.49 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.50 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.50 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.50 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.50 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.50 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.50 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.50 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.50 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.50 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.50 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.50 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 09:12:16.51 [9232:8884:0706/091215.965:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+7月 06, 2018 10:06:46.69 Unable to read VR Path Registry from C:\Users\jin.junho\AppData\Local\openvr\openvrpaths.vrpath
+7月 06, 2018 10:06:46.69 [9232:8884:0706/100646.689:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+7月 06, 2018 11:25:13.98 [9232:8884:0706/112513.980:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+7月 06, 2018 11:25:15.50 [9232:8884:0706/112515.509:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+7月 06, 2018 11:25:23.79 [9232:8884:0706/112523.799:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+7月 06, 2018 11:25:29.71 [9232:8884:0706/112529.709:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+7月 06, 2018 11:25:48.32 [9232:8884:0706/112548.320:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+7月 06, 2018 11:25:54.18 [9232:8884:0706/112554.179:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+7月 06, 2018 11:25:57.57 [9232:8884:0706/112557.576:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+7月 06, 2018 11:26:03.43 [9232:8884:0706/112603.438:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+7月 06, 2018 11:26:09.30 [9232:8884:0706/112609.303:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+7月 06, 2018 11:59:19.64 [9232:10160:0706/115919.640:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
+7月 06, 2018 13:02:10.25 [9232:8884:0706/130207.830:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+7月 06, 2018 13:06:14.10 [9232:8884:0706/130614.107:ERROR:render_widget_host_view_aura.cc(1331)] NOT IMPLEMENTED
+7月 06, 2018 13:06:14.11 [9232:8884:0706/130614.108:ERROR:render_widget_host_view_aura.cc(1331)] NOT IMPLEMENTED
+7月 06, 2018 13:06:40.62 [9232:8884:0706/130640.626:ERROR:render_widget_host_view_aura.cc(1331)] NOT IMPLEMENTED
+7月 06, 2018 13:06:40.66 [9232:8884:0706/130640.626:ERROR:render_widget_host_view_aura.cc(1331)] NOT IMPLEMENTED
+7月 06, 2018 13:15:41.19 [9232:8884:0706/131541.197:ERROR:render_widget_host_view_aura.cc(1331)] NOT IMPLEMENTED
+7月 06, 2018 13:15:41.45 [9232:8884:0706/131541.197:ERROR:render_widget_host_view_aura.cc(1331)] NOT IMPLEMENTED
+7月 06, 2018 13:15:44.07 [9232:8884:0706/131544.074:ERROR:render_widget_host_view_aura.cc(1331)] NOT IMPLEMENTED
+7月 06, 2018 13:15:44.07 [9232:8884:0706/131544.074:ERROR:render_widget_host_view_aura.cc(1331)] NOT IMPLEMENTED
+7月 06, 2018 13:15:56.54 [9232:8884:0706/131556.546:ERROR:render_widget_host_view_aura.cc(1331)] NOT IMPLEMENTED
+7月 06, 2018 13:15:56.55 [9232:8884:0706/131556.546:ERROR:render_widget_host_view_aura.cc(1331)] NOT IMPLEMENTED
+7月 06, 2018 13:15:58.52 [9232:8884:0706/131558.525:ERROR:render_widget_host_view_aura.cc(1331)] NOT IMPLEMENTED
+7月 06, 2018 13:15:58.52 [9232:8884:0706/131558.525:ERROR:render_widget_host_view_aura.cc(1331)] NOT IMPLEMENTED
+7月 06, 2018 14:18:41.82 [9232:8884:0706/141837.846:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+7月 06, 2018 15:27:58.42 [9232:8884:0706/152758.422:ERROR:render_widget_host_view_aura.cc(1331)] NOT IMPLEMENTED
+7月 06, 2018 15:27:58.42 [9232:8884:0706/152758.422:ERROR:render_widget_host_view_aura.cc(1331)] NOT IMPLEMENTED
+7月 06, 2018 15:36:46.63 [9232:8884:0706/153646.630:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+7月 06, 2018 15:39:09.94 [9232:8884:0706/153909.945:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+7月 06, 2018 15:53:38.00 [10236:8164:0706/155338.006:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+7月 06, 2018 15:53:59.86 [10832:2604:0706/155359.869:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+7月 06, 2018 16:19:43.56 Unable to read VR Path Registry from C:\Users\jin.junho\AppData\Local\openvr\openvrpaths.vrpath
+7月 06, 2018 16:19:51.02 [11672:248:0706/161951.022:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2

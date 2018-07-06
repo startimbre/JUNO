@@ -1,0 +1,13 @@
+package com.juno.shopping.biz.product;
+
+public class ProductVO {
+	private String productId;
+	private String productTypeCode;
+	private String productNameKr;
+	private String productNameJp;
+	private String companyName;
+	private int price;
+	private int prime_cost;
+	private int quantity;
+	
+}

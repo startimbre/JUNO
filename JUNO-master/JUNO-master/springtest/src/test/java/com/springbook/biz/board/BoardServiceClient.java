@@ -24,7 +24,8 @@ public class BoardServiceClient {
 		
 		// 글 목록 검색 기능 테스트
 		
-		boardService.getBoard(vo);
+		BoardVO getBoard = boardService.getBoard(vo);
+		System.out.println(getBoard.toString());
 		System.out.println("getBoard complete!!");
 		
 		List<BoardVO> boardList = boardService.getBoardList(vo);

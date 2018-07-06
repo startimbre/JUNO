@@ -5,30 +5,31 @@
 		<item value="247" key="DIALOG_Y_ORIGIN"/>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item value="false" key="isRegEx"/>
-		<item value="index" key="selection"/>
-		<item value="false" key="casesensitive"/>
+		<item value="true" key="isRegEx"/>
+		<item value="" key="selection"/>
+		<item value="true" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
-			<item value="index"/>
-			<item value="jsp"/>
 			<item value="mybatis"/>
-			<item value="a"/>
-			<item value="RequestMappingHandlerAdapter"/>
-			<item value="handl"/>
-			<item value="message"/>
-			<item value="file"/>
+			<item value="mvc"/>
+			<item value="html"/>
+			<item value="product"/>
+			<item value="cart"/>
+			<item value="a href"/>
+			<item value="shop"/>
+			<item value=".jsp"/>
 		</list>
 		<list key="replacehistory">
+			<item value="do"/>
+			<item value="cart.do"/>
+			<item value="jsp"/>
 			<item value="checkResult"/>
 			<item value="result"/>
 			<item value=""/>
 			<item value="データー"/>
 			<item value="dbAccess"/>
-			<item value="dbaccess"/>
-			<item value="( "/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">

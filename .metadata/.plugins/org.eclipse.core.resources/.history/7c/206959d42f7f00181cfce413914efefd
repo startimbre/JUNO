@@ -1,0 +1,29 @@
+package com.juno.shopping.biz.product.impl;
+
+import org.mybatis.spring.SqlSessionTemplate;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.stereotype.Repository;
+
+import com.juno.shopping.biz.product.ProductVO;
+
+@Repository
+public class ProductDAO {
+	@Autowired
+	@Qualifier("sqlSessionTemplate")
+	private SqlSessionTemplate mybatis;
+	
+	public ProductVO getProductDetail(ProductVO vo) {
+		System.out.println("Show Products method exec...");
+		return (ProductVO) mybatis.selectList("ProductDAO.getProductList", vo);
+	}
+	
+	// 물건 구매시 처리
+	// 1. 재고가 줄어든다.
+	// 2. 구매자의 돈이 줄어든다.
+	// 3. 
+//	public void buyProduct(ProductVO vo) {
+//		int point = vo.getPrice() * vo.getPointPercent();
+//	}
+
+}

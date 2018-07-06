@@ -12,6 +12,6 @@ public class LogoutController {
 	public String logout(HttpSession session) {
 		
 		session.invalidate();
-		return "login.jsp";
+		return "login";
 	}
 }

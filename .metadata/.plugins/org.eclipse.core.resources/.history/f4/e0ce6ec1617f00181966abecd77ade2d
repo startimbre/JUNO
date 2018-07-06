@@ -1,0 +1,18 @@
+package com.juno.shopping.biz.product;
+
+import java.util.Date;
+
+public class ProductVO {
+	
+	private String product_id;
+	private String storage_code;
+	private String product_type_code;
+	private String product_name_kr;
+	private String product_name_jp;
+	private String company_name;
+	private int product_price;
+	private int product_prime_cost;
+	private int product_point_percent;
+	private int product_quantity;
+	private Date product_order_date;
+}

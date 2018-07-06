@@ -1,0 +1,34 @@
+package com.juno.shopping.product;
+
+import org.springframework.context.support.AbstractApplicationContext;
+import org.springframework.context.support.GenericXmlApplicationContext;
+
+import com.juno.shopping.biz.product.ProductService;
+import com.juno.shopping.biz.product.ProductVO;
+
+public class ShoppingTest {
+
+	public static void main(String[] args) {
+		// 1. SPRING CONTAINER EXEC!!
+		AbstractApplicationContext container = new GenericXmlApplicationContext("root-Context.xml");
+		
+		ProductService productService = (ProductService)container.getBean("productService");
+
+		// 등록 가능 여부 테스트
+
+		// ProductVO vo = new ProductVO();
+		// vo.g("임시제목");
+		// vo.setWriter("홍길동");
+		// vo.setContent("임시 내용............");
+		// boardService.insertBoard(vo);
+		// System.out.println("insert complete!!");
+
+		// 글 목록 검색 기능 테스트
+
+//		ProductVO vo = new ProductVO();
+//		productService.getProductDetail(vo);
+//		System.out.println(vo);
+
+		container.close();
+	}
+}

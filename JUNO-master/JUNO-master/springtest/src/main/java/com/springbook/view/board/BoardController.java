@@ -32,16 +32,12 @@ public class BoardController {
 		List<BoardVO> boardList = boardService.getBoardList(vo);
 		return boardList;
 	}
-//	@RequestMapping("/")
-//	public String indexJsp() {
-//		return "index";
-//	}
-	// update Board
 	@RequestMapping("/boardModify.do")
 	public String updateBoard(@ModelAttribute("board") BoardVO vo) {
 		boardService.updateBoard(vo);
-		return "boardList.do";
+		return "redirect:boardList.do";
 	}
+	
 	// Search condition setting
 	@ModelAttribute("conditionMap")
 	public Map<String, String> searchConditionMap(){
@@ -50,8 +46,14 @@ public class BoardController {
 		conditionMap.put("내용", "CONTENT");
 		return conditionMap;
 	}
-	// InsertBoard(new content)
+	// InsertBoardPage
 	@RequestMapping(value = "/insertBoard.do")
+	public String insertBoardPageOpen() {
+		return "insertBoard";
+	}
+	
+	// InsertBoard(new content)
+	@RequestMapping(value = "/insertBoardConfirm.do")
 	public String insertBoard(BoardVO vo) throws IOException {
 	// 파일 업로드 처리
 	MultipartFile uploadFile = vo.getUploadFile();
@@ -74,17 +76,18 @@ public class BoardController {
 		model.addAttribute("boardList", boardService.getBoardList(vo)); 
 		return "boardList"; // View 이름 리턴
 	}
+	
 	// select content print
 	@RequestMapping("/getBoard.do")
 	public String getBoard(BoardVO vo, Model model) {
 		model.addAttribute("board", boardService.getBoard(vo));
 		return "getBoard";
 	}
+	
 	// delete board
 	@RequestMapping("/deleteBoard.do")
 	public String deleteBoard(BoardVO vo) {
 		boardService.deleteBoard(vo);
 		return "redirect:boardList.do";
 	}
-}	
-	
+}

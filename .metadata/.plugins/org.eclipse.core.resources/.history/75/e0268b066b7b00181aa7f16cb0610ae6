@@ -1,0 +1,5 @@
+package com.juno.shopping.biz.user;
+
+public class UserVO {
+	private String id;
+}

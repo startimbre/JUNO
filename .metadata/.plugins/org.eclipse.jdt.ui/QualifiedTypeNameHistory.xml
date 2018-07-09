@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.springbook.view.controller.DeleteBoardController"/>
 <fullyQualifiedTypeName name="com.springbook.view.controller.LogoutController"/>
 <fullyQualifiedTypeName name="javax.websocket.Session"/>
 <fullyQualifiedTypeName name="com.springbook.view.controller.LoginController"/>
 <fullyQualifiedTypeName name="com.springbook.view.user.LoginController"/>
-<fullyQualifiedTypeName name="org.springframework.ui.Model"/>
 <fullyQualifiedTypeName name="org.apache.catalina.Session"/>
 <fullyQualifiedTypeName name="org.springframework.web.servlet.mvc.Controller"/>
 <fullyQualifiedTypeName name="org.apache.catalina.User"/>
@@ -18,7 +16,6 @@
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
 <fullyQualifiedTypeName name="java.util.Map"/>
 <fullyQualifiedTypeName name="java.util.HashMap"/>
-<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.SessionAttributes"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ModelAttribute"/>
 <fullyQualifiedTypeName name="com.springbook.biz.board.impl.BoardServiceImpl"/>
 <fullyQualifiedTypeName name="com.springbook.biz.board.BoardService"/>
@@ -51,13 +48,16 @@
 <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
-<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 <fullyQualifiedTypeName name="org.mybatis.spring.support.SqlSessionDaoSupport"/>
 <fullyQualifiedTypeName name="org.mybatis.spring.SqlSessionTemplate"/>
 <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.juno.shopping.biz.product.impl.ProductDAO"/>
-<fullyQualifiedTypeName name="com.juno.shopping.biz.product.ProductService"/>
+<fullyQualifiedTypeName name="org.springframework.ui.Model"/>
+<fullyQualifiedTypeName name="com.juno.shopping.biz.product.impl.ProductServiceImpl"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.SessionAttributes"/>
 <fullyQualifiedTypeName name="com.juno.shopping.biz.product.ProductVO"/>
+<fullyQualifiedTypeName name="com.juno.shopping.biz.product.ProductService"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 </qualifiedTypeNameHistroy>

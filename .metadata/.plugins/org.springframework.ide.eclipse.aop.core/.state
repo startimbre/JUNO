@@ -4,5 +4,4 @@
 <aop-project name="BoardWeb"/>
 <aop-project name="MybatisProject"/>
 <aop-project name="ShoppingMall"/>
-<aop-project name="asdafasf"/>
 </aop-reference-model>

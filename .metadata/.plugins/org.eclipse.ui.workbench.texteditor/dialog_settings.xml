@@ -6,22 +6,23 @@
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="true" key="isRegEx"/>
-		<item value="products-catagories-area" key="selection"/>
+		<item value="" key="selection"/>
 		<item value="true" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="mouseover"/>
+			<item value="mouse"/>
+			<item value="carousel-indi"/>
+			<item value="product.id"/>
+			<item value="img"/>
 			<item value="product-detail"/>
 			<item value="href"/>
 			<item value="src"/>
-			<item value="img"/>
-			<item value="scss"/>
-			<item value="js"/>
-			<item value="mybatis"/>
-			<item value="mvc"/>
 		</list>
 		<list key="replacehistory">
+			<item value="product_id"/>
 			<item value="do"/>
 			<item value="cart.do"/>
 			<item value="jsp"/>
@@ -29,7 +30,6 @@
 			<item value="result"/>
 			<item value=""/>
 			<item value="データー"/>
-			<item value="dbAccess"/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">

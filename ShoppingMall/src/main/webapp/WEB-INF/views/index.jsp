@@ -109,7 +109,6 @@
             <div class="amado-pro-catagory clearfix">
 
 		<c:forEach var="product" items="${productList }">
-                Single Catagory
                 <div class="single-products-catagory clearfix">
                     <a href="product-details.do?product_id=${product.product_id}">
                         <img src="resources/amado/img/bg-img/${product.product_id }.jpg" alt="">
@@ -117,6 +116,7 @@
                             <div class="line"></div>
                             <p>${product.product_price}円</p>
                             <h4>${product.product_name_kr}</h4>
+                            <h4>${product.product_name_jp}</h4>
                         </div>
                     </a>
                 </div>

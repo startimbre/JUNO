@@ -6,20 +6,20 @@
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="true" key="isRegEx"/>
-		<item value="" key="selection"/>
+		<item value="header" key="selection"/>
 		<item value="true" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="js"/>
+			<item value="amado-btn-group mt-30 mb-100"/>
+			<item value="singl"/>
+			<item value="css"/>
+			<item value="for"/>
 			<item value="mouseover"/>
 			<item value="mouse"/>
 			<item value="carousel-indi"/>
-			<item value="product.id"/>
-			<item value="img"/>
-			<item value="product-detail"/>
-			<item value="href"/>
-			<item value="src"/>
 		</list>
 		<list key="replacehistory">
 			<item value="product_id"/>

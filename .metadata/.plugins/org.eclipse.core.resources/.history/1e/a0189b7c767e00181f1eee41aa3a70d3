@@ -1,7 +1,0 @@
-package com.juno.shopping.biz.product.impl;
-
-import com.juno.shopping.ProductService;
-
-public class ProductServiceImpl implements ProductService {
-
-}

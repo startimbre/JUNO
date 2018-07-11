@@ -21,7 +21,6 @@
 
     <!-- Core Style CSS -->
     <link rel="stylesheet" href="resources/amado/css/core-style.css">
-    <link rel="stylesheet" href="resources/amado/style.css">
 
 </head>
 
@@ -85,7 +84,7 @@
             </nav>
             <!-- Button Group -->
             <div class="amado-btn-group mt-30 mb-100">
-                <a href="#" class="btn amado-btn mb-15">%Discount%</a>
+                <a href="register.do" class="btn amado-btn mb-15">Join us</a>
                 <a href="#" class="btn amado-btn active">New this week</a>
             </div>
             <!-- Cart Menu -->
